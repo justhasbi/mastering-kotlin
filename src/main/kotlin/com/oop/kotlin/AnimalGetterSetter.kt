@@ -16,7 +16,7 @@ class AnimalGetterSetter {
 }
 
 fun main() {
-    var geckoLicker = AnimalGetterSetter()
+    val geckoLicker = AnimalGetterSetter()
     println("Name: ${geckoLicker.name}")
 
     geckoLicker.name = "Gecko Mimic"
