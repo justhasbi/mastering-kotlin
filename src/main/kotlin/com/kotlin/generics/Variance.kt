@@ -1,7 +1,7 @@
 package com.kotlin.generics
 
 /*
-    Varance -> konsep yang menggambarkan bagaimana sebuah tipe yang memiliki subtipe yang sama
+    Varuiance -> konsep yang menggambarkan bagaimana sebuah tipe yang memiliki subtipe yang sama
     dan tipe argumen yang berbeda saling berkaitan satu sama lain.
 
     Variance dibutuhkan ketika kita ingin membuat kelas atau fungsi generic dengan batasan yang

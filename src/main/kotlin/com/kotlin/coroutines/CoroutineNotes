@@ -1,0 +1,7 @@
+Coroutines bukanlah bagian dari bahasa Kotlin.
+Coroutines hanyalah library lain yang disediakan oleh JetBrains.
+
+Tambahkan dependensi berikut pada build.gradle.kts:
+dependencies {
+    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.3.2")
+}
